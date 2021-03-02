@@ -4,7 +4,7 @@ In this AI programming with Python, we are going to explore the dog breed projec
 
 Let us begin
 
-** IMAGE CLASSIFICATION for a CITY DOG SHOW **
+**IMAGE CLASSIFICATION for a CITY DOG SHOW**
 
 **Project Goal**
   Improving your programming skills using `Python`
@@ -12,7 +12,7 @@ Let us begin
 In this project, we will use a created image classifier to identify dog breeds. We are asked to be focusing on Python and not on the actual classifier. The building of a classifier will come later in the program.
 
 
-** Description **
+**Description**
 
 Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
 
@@ -20,9 +20,9 @@ Some people are planning on registering pets that aren’t actual dogs.
 
 You need to use an already developed `python` classifier to make sure the participants are dogs.
 
-**Note:
+**Note:**
 
-You do not need to create the classifier. It will be provided to you. You will need to apply the Python tools learned to use the classifier**
+**You do not need to create the classifier. It will be provided to you. You will need to apply the Python tools learned to use the classifier**
 
 **Tasks:**
 
@@ -34,7 +34,7 @@ If you are confused by the term image classifier look at it simply as a tool tha
 Time how long each algorithm takes to solve the classification problem. With computational tasks, there is often a trade-off between accuracy and runtime. The more accurate an algorithm, the higher the likelihood that it will take more time to run and use more computational resources to run
 
 
-Important Notes:
+**Important Notes:
 
 For this image classification task, you will be using an image classification application using a deep learning model called a convolutional neural network (often abbreviated as CNN). CNNs work particularly well for detecting features in images like colors, textures, and edges; then using these features to identify objects in the images. You'll use a CNN that has already learned the features from a giant dataset of 1.2 million images called ImageNet. There are different types of CNNs that have different structures that work better or worse depending on your criteria. With this project, you'll explore the three different architectures (AlexNet, VGG, and ResNet) and determine which is best for your application. 
 
