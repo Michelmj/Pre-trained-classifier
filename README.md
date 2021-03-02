@@ -6,8 +6,9 @@ Let us begin
 
 **IMAGE CLASSIFICATION for a CITY DOG SHOW**
 
-**Project Goal**
-  Improving your programming skills using `Python`
+**Project Goal:**
+
+Improving your programming skills using `Python`
 
 In this project, we will use a created image classifier to identify dog breeds. We are asked to be focusing on Python and not on the actual classifier. The building of a classifier will come later in the program.
 
